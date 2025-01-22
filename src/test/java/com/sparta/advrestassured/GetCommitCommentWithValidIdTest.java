@@ -17,7 +17,7 @@ public class GetCommitCommentWithValidIdTest {
     private static final String PATH = "/repos/{owner}/{repo}/comments/{comment_id}";
     private static final String OWNER = "ik1g19";
     private static final String REPO_NAME = "testing";
-    private static final String BEARER_TOKEN = "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";
+    private static final String BEARER_TOKEN = "";
     private static final String COMMENT_ID = "151626468";
     private static final String SERVER_HEADER = "github.com";
 
